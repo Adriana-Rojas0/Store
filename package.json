@@ -2,6 +2,7 @@
   "name": "store",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://adriana-rojas0.github.io/Store/",
   "type": "module",
   "scripts": {
     "start": "vite",
